@@ -1,0 +1,16 @@
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\bin\Debug\net5.0\F1M3cs.exe
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\bin\Debug\net5.0\F1M3cs.deps.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\bin\Debug\net5.0\F1M3cs.runtimeconfig.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\bin\Debug\net5.0\F1M3cs.runtimeconfig.dev.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\bin\Debug\net5.0\F1M3cs.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\bin\Debug\net5.0\ref\F1M3cs.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\bin\Debug\net5.0\F1M3cs.pdb
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\F1M3cs.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\F1M3cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\F1M3cs.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\F1M3cs.AssemblyInfo.cs
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\F1M3cs.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\F1M3cs.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\ref\F1M3cs.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\F1M3cs.pdb
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\obj\Debug\net5.0\F1M3cs.genruntimeconfig.cache

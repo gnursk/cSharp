@@ -1,0 +1,4 @@
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Scopes\obj\Debug\net5.0\Scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Scopes\obj\Debug\net5.0\Scopes.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Scopes\obj\Debug\net5.0\Scopes.AssemblyInfo.cs
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Scopes\obj\Debug\net5.0\Scopes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\obj\Debug\net5.0\Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\obj\Debug\net5.0\Name.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\obj\Debug\net5.0\Name.AssemblyInfo.cs
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\obj\Debug\net5.0\Name.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\bin\Debug\net5.0\Name.exe
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\bin\Debug\net5.0\Name.deps.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\bin\Debug\net5.0\Name.runtimeconfig.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\bin\Debug\net5.0\Name.runtimeconfig.dev.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\bin\Debug\net5.0\Name.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\bin\Debug\net5.0\ref\Name.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\bin\Debug\net5.0\Name.pdb
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\obj\Debug\net5.0\Name.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\obj\Debug\net5.0\ref\Name.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\obj\Debug\net5.0\Name.pdb
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Name\obj\Debug\net5.0\Name.genruntimeconfig.cache

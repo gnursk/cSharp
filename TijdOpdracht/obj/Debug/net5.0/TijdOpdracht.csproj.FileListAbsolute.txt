@@ -1,0 +1,16 @@
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\bin\Debug\net5.0\TijdOpdracht.exe
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\bin\Debug\net5.0\TijdOpdracht.deps.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\bin\Debug\net5.0\TijdOpdracht.runtimeconfig.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\bin\Debug\net5.0\TijdOpdracht.runtimeconfig.dev.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\bin\Debug\net5.0\TijdOpdracht.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\bin\Debug\net5.0\ref\TijdOpdracht.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\bin\Debug\net5.0\TijdOpdracht.pdb
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\TijdOpdracht.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\TijdOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\TijdOpdracht.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\TijdOpdracht.AssemblyInfo.cs
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\TijdOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\TijdOpdracht.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\ref\TijdOpdracht.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\TijdOpdracht.pdb
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\TijdOpdracht\obj\Debug\net5.0\TijdOpdracht.genruntimeconfig.cache

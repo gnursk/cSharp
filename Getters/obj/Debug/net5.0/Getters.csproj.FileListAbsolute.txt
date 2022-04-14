@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\bin\Debug\net5.0\Getters.exe
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\bin\Debug\net5.0\Getters.deps.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\bin\Debug\net5.0\Getters.runtimeconfig.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\bin\Debug\net5.0\Getters.runtimeconfig.dev.json
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\bin\Debug\net5.0\Getters.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\bin\Debug\net5.0\ref\Getters.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\bin\Debug\net5.0\Getters.pdb
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.AssemblyInfo.cs
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\ref\Getters.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.pdb
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.genruntimeconfig.cache
