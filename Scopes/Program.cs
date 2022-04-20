@@ -1,9 +1,17 @@
 ﻿using System;
-
 namespace Scopes
 {
-    class Program
+    internal class Program
     {
-        int a = 5;
+        static void Main(string[] args)
+        {
+            NewScope();
+        }
+
+        public static void NewScope()
+        {
+            Console.WriteLine("Is deze opdracht goed?");
+        }
+
     }
 }

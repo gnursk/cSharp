@@ -1,15 +1,26 @@
 ﻿using System;
+using Hond;
 
 namespace Getters
 {
-    class Person
+    internal class Program
     {
-        private string name;
-
-        public string Name
+        static void Main(string[] args)
         {
-            get { return name; }
-            set { name = value; } 
+            Kat Paard = new Kat();
+            Paard.Dieren();
+        }
+    }
+
+}
+namespace Hond
+{
+    public class Kat
+    {
+        public void Dieren()
+        {
+            string Cavia = "Dieren zijn interesant";
+            Console.WriteLine(Cavia);
         }
     }
 }
