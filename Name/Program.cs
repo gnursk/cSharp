@@ -1,6 +1,6 @@
 ﻿using System;
 namespace Name
-using namespace Name1
+using Name1;
 {
     class henk
     {
@@ -18,3 +18,4 @@ using namespace Name1
 
         }
     }
+}
