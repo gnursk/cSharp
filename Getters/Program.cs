@@ -1,5 +1,4 @@
 ﻿using System;
-using Hond;
 
 namespace Getters
 {
@@ -7,20 +6,23 @@ namespace Getters
     {
         static void Main(string[] args)
         {
-            Kat Paard = new Kat();
-            Paard.Dieren();
+            Dog dog = new Dog();
+            dog.SetAge(5);
+            Console.WriteLine("Dog age is " + dog.Age);
         }
+
+
     }
 
-}
-namespace Hond
-{
-    public class Kat
+    internal class Dog
     {
-        public void Dieren()
+        internal int Age;
+
+        internal void SetAge(int age)
         {
-            string Cavia = "Dieren zijn interesant";
-            Console.WriteLine(Cavia);
+            Age = age;
         }
+
+
     }
 }

@@ -13,3 +13,11 @@ C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Gett
 C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\ref\Getters.dll
 C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.pdb
 C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\Getters\obj\Debug\net5.0\Getters.genruntimeconfig.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\Getters\obj\Debug\net5.0\Getters.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\Getters\obj\Debug\net5.0\Getters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\Getters\obj\Debug\net5.0\Getters.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\Getters\obj\Debug\net5.0\Getters.AssemblyInfo.cs
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\Getters\obj\Debug\net5.0\Getters.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\Getters\obj\Debug\net5.0\Getters.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\Getters\obj\Debug\net5.0\ref\Getters.dll
+C:\Users\Nick\Documents\MA\Bewijzenmap\Periode 1.3\F1M3cs\Getters\obj\Debug\net5.0\Getters.pdb

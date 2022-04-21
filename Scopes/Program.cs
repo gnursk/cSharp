@@ -10,7 +10,7 @@ namespace Scopes
 
         public static void NewScope()
         {
-            Console.WriteLine("Is deze opdracht goed?");
+            int a = 3;
         }
 
     }
