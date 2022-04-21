@@ -1,6 +1,6 @@
 ﻿using System;
-namespace Name
 using Name1;
+namespace Name
 {
     class henk
     {
