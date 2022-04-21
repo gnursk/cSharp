@@ -1,13 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Erven",
-    "\\Getters",
-    "\\Loops",
     "\\Name",
     "\\Scopes",
     "\\Variables"
   ],
-  "SelectedNode": "\\Getters\\Program.cs",
+  "SelectedNode": "\\Name\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,7 +1,6 @@
 ﻿using System;
-
-
 namespace Name
+using namespace Name1
 {
     class henk
     {
@@ -19,25 +18,3 @@ namespace Name
 
         }
     }
-
-    class Car
-    {
-        private string color;
-
-        public Car(string color)
-        {
-            this.color = color;
-        }
-
-        public string Describe()
-        {
-            return "This car is " + Color;
-        }
-
-        public string Color
-        {
-            get { return color; }
-            set { color = value; }
-        }
-    }
-}
